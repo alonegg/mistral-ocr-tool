@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/您的用户名/mistral-ocr-tool.git
+git clone https://github.com/alonegg/mistral-ocr-tool.git
 cd mistral-ocr-tool
 pip install -r requirements.txt
 
@@ -45,9 +45,8 @@ python mistral.py document.pdf --structured
 ```bash
 python mistral.py --help
  ```
-
-## 示例
-查看 examples 目录获取更多使用示例。
+## 获取MISTRAL_API_KEY
+https://mistral.ai/。---> try the api
 
 ## 文档
 详细文档请参阅 docs 目录。
