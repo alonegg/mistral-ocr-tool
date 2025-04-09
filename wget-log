@@ -1,6 +1,1 @@
---2025-04-08 14:53:03--  https://swufepdf.s3.us-east-1.amazonaws.com/1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256
-Resolving swufepdf.s3.us-east-1.amazonaws.com (swufepdf.s3.us-east-1.amazonaws.com)... 54.231.132.34, 3.5.23.132, 16.182.69.170, ...
-Connecting to swufepdf.s3.us-east-1.amazonaws.com (swufepdf.s3.us-east-1.amazonaws.com)|54.231.132.34|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2025-04-08 14:53:04 ERROR 400: Bad Request.
 
